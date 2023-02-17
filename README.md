@@ -6,9 +6,7 @@
                                   Hi there 👋 i'm Abhishek 
                                   A frontend Web developer
 
-- 🔭 I’m currently working on Reactjs and Wordpress
+- 🔭 I’m currently working on Reactjs
 - 🌱 I’m currently learning Full Stack (Mern)
-- 👯 I’m looking to collaborate on Blog Website
 - 🤔 I’m looking for WEB DEVELOPER ROLE
-- 💬 Ask me about Frontend Web de
-pxd-gaxh-ucg
+- 💬 Ask me about Frontend Web dev
