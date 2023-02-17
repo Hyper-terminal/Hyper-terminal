@@ -9,4 +9,4 @@
 - 🔭 I’m currently working on Reactjs
 - 🌱 I’m currently learning Full Stack (Mern)
 - 🤔 I’m looking for WEB DEVELOPER ROLE
-- 💬 Ask me about Frontend Web dev
+- 💬 Ask me about Frontend Web dev:smile:
