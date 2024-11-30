@@ -33,7 +33,7 @@ Hi 👋, I am **Abhi** an enthusiastic and ambitious full stack developer at Mri
 
 - 💬 Ask me about **open source, web development, and community management**
 
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Reach me out at **abhishekkalonia20@google.com**
 
 </details>
   
