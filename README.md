@@ -29,7 +29,7 @@ Hi 👋, I am **Abhi** an enthusiastic and ambitious full stack developer at Mri
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
+- 👨‍💻 All of my projects are available at [abhi.co](https://portfolio-8f747.web.app/)
 
 - 💬 Ask me about **open source, web development, and community management**
 
